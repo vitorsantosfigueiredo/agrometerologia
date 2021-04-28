@@ -2,6 +2,8 @@
 
 # Agrometerologia
 
+![agromet](https://www.agricultura.rs.gov.br/upload/recortes/201801/26090234_77892_GDO.jpg)
+
 ## AULA 01
 
 ### Agrometeorologia: Aplicações práticas na agricultura
