@@ -1,5 +1,62 @@
 # Agrometerologia
 
+## AULA 01
+
+### Agrometeorologia: Aplicações práticas na agricultura
+
+Por que a Agrometeorologia aplicada na agricultura? Quando pensamos na planta, e
+toda sua condição fisiológica, na condução de lavouras. Automaticamente temos que levar em
+consideração a previsão de mercado, preços a produtividade. Sendo assim a condição
+climática afeta o mercado agrícola. Toda a comercialização pode ser afetada quando exite um
+probabilidade de redução das chuvas por exemplo, que diretamente afeta a margem de lucro
+dos produtores. Nós técnicos precisamos estar atentos e buscar sempre prever esses eventos
+meteorológicos buscando minimizar esses prejuízos. Mais de 80% da variabilidade na
+produtividade agrícola se deve à mudanças e condições meteorológicas. Sendo a tomada de
+decisão um fator determinante nas lucratividade da atividade agrícola. È preciso saber o
+momento certo de irrigar, como irrigar, o preparo do solo, a pulverização contra pragas e
+insetos, o momento da colheita, e a hora certa da semeadura.
+
+O deficit hídrico é o principal fator limitante da produtividade. Tomando como
+exemplo as lavouras de café que representa uma atividade agrícola extremamente importante
+no estado de Minas Gerais. Os efeito do deficit hídrico associado as altas temperaturas na
+produção do café são: maior intensidade de pragas e doenças como bicho-minador, lagarta
+rosca, ácaro vermelho e cercosporiose. Os sinais visuais são perceptíveis em toda planta,
+ocorrem lesões no ramo ortotrópico, que ficam com uma aparência de mais fino. O calor
+intenso na superfície do solo, prejudica o crescimento das raízes, e consequentemente a
+absorção de nutrientes, e provocando lesões no colo das plantas jovens. Ocorrem
+escaldaduras de folhas, que acarretam em menor área fotossintetizante, menor assimilação de
+fertilizantes e maior perda de Nitrogênio. Podem ocorrem também anomalias florais causada
+por altas temperaturas e deficit hídrico são chamadas botões florais e flores “estrelinhas”
+(pétalas pequenas e esverdeadas). Os frutos também são prejudicados, podem ocorrer
+anomalias na formação de frutos o chamado “coração negro”. Em síntese a queda da
+produtividade é grande e irá acarretar em prejuízos ao produtor. O solo é a grande caixa
+d'água, tem capacidade de suportar uma certa quantidade de água. Quando falta uma
+quantidade chamamos de deficit hídrico. Na condição de deficit a produtividade pode ser
+afetada variando com o grau de intensidade. Um sistema de irrigação, atualmente é um dos
+principais investimentos a serem levados em consideração nas lavouras de café. Dentro das
+possibilidades de disponibilidade de água e condições do produtor. A irrigação utilizada em
+momentos críticos é uma saída para períodos de deficit hídrico que comprometem a
+produtividade.
+
+Como técnicos precismos buscar formas de reter a água já que não temos o controle
+das condições climáticas. Técnicas como plantio direto, rotação de culturas, plantas de
+cobertura nas entre linhas são utilizadas. Na cafeicultura especificamente, é utilizado plantas
+de cobertura na entrelinha para reter a umidade no solo. A Brachiaria é a mais utilizada, sendo
+manejada com poda para que não entre em competição por nutrientes com a lavoura de café.
+Outra estratégia já testada é a cobertura do solo com filme plástico. Chamado também de
+mulching. A utilização da casca de café e composto orgânico também é utilizado buscando
+diminuir a temperatura do solo. E aumentar a camada de matéria orgânica. As instituições que
+trabalham com melhoramento tem buscado desenvolver cultivares que são mais tolerantes ao
+deficit hídrico.
+
+Algumas regiões estão mais sujeitas a fenômenos climáticos com el nino, la nina.
+Dentro de uma mesma localidade existe diferença climática. Os fenômenos climáticos são
+algo externo no qual não temos controle. No entanto é de suma importância conhecermos a
+natureza e dinâmica desses fenômenos, para que possamos prevê-los, reduzindo assim as
+perdas na lavoura.
+
+
+
 ## AULA 02
 
 #### Agrometerologia X Agricultura?
