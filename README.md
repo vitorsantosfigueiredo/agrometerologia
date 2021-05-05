@@ -132,11 +132,13 @@ quais não temos controle.
 
 A produtividade sofre uma variação. Vários fatores estão relacionados com essas causas. A água é um dos principais fatores. Para nós técnicos é preciso entender quais motivos e condicionantes afetam o ciclo das chuvas e do clima. 
 
-#Espaço X Tempo 
+# Espaço X Tempo 
 
 O primeiro aspceto a ser considerado em macro escala, a escala espacial dos fenômenos Atmosféricos. Fenômenos regionais ou geográficos que carcterizam o clima de grandes áreas. A latitude, altitude é preciso ser levado em consideração na escolha das melhores especies para cultivar. A altitude básicamente se refere a temperatura, algumas culturas como o café conseguem produzir frutos de maior qualidade em locais de maiores altitudes em números absolutos 900, 1000, 1100 metros. Enquanto a latitude se relaciona com a posição geográfica da propriedade rural no globo terrestre. 
 
-#Quais os principais fatores que influenciam na produtividade da lavoura?
+Meso escala, fatores locais, Topo escala. Escala local em que a topografia do terreno condiona o clima. Relevo da propriedade, declividade. Alterações locais na topografia local, que irá influenciar na produtividade. Um terreno ingreme possui grande variação do topo até a baixada. Muito diferentes condições em uma mesma propiedade. A face voltada para o norte em terreno ondulado possuem maior radiação. Em outros locais voltados para a face sul possuem radiação mais difusas. Essas  diferenças afetam as condições meteorologicas locais 
+
+# Quais os principais fatores que influenciam na produtividade da lavoura?
 
 
 
