@@ -101,7 +101,7 @@ Importante para o produtor o planejamento agrícola, obter os dados sobre a lavo
 adubação controle de pragas, expectativa de produtividade, para que se possa ministrar as
 quantidades adequadas de nutrientes e defensivos. Sabendo-se o nível de infestação de
 determinada praga nos anos anteriores e sendo o nível menor nessa safra é possível diminuir o
-número de aplicações de inseticidas sem diminuir a produtividade. Por isso é essencial coletar
+número de aplicações de inseticidas sem diminuir a produtividade. Por isso é essencial coletar, 
 os dados de infestação de insetos, doenças, plantas daninhas; preços pagos por insumos e
 defensivos; quantidade de mão de obra e seus custos; custos de maquinários e horas de
 trabalho; entre tantos outros.
@@ -125,6 +125,19 @@ calendários de plantio.
 Conhecer o clima é essencial para para o sucesso da agricultura. Utilizando
 ferramentas tecnológicas, conhecimento empírico buscando sempre prever condições nas
 quais não temos controle.
+
+## AULA 03
+
+### Fatores que condicionam a variabilidade na Produção Agrícola
+
+A produtividade sofre uma variação. Vários fatores estão relacionados com essas causas. A água é um dos principais fatores. Para nós técnicos é preciso entender quais motivos e condicionantes afetam o ciclo das chuvas e do clima. 
+
+#Espaço X Tempo 
+
+O primeiro aspceto a ser considerado em macro escala, a escala espacial dos fenômenos Atmosféricos. Fenômenos regionais ou geográficos que carcterizam o clima de grandes áreas. A latitude, altitude é preciso ser levado em consideração na escolha das melhores especies para cultivar. A altitude básicamente se refere a temperatura, algumas culturas como o café conseguem produzir frutos de maior qualidade em locais de maiores altitudes em números absolutos 900, 1000, 1100 metros. Enquanto a latitude se relaciona com a posição geográfica da propriedade rural no globo terrestre. 
+
+#Quais os principais fatores que influenciam na produtividade da lavoura?
+
 
 
 
