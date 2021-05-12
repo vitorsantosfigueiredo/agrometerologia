@@ -140,6 +140,24 @@ Meso escala, fatores locais, Topo escala. Escala local em que a topografia do te
 
 # Quais os principais fatores que influenciam na produtividade da lavoura?
 
+A produtividade da lavoura é influenciada por vários fatores como solo, manejo, genética
+das plantas, disponibilidade de água e clima. Dentre essas o clima e a disponibilidade de água são
+fatores de mais difícil controle. Em termos de água um sistema de irrigação atualmente é o principal
+investimento em uma lavoura. No entanto ainda possui um alto custo e um alto nível técnico. Sendo
+assim a maioria das propriedades ainda trabalham no sistema de sequeiro. Pegando como exemplo a
+cultura do café. As condições climáticas fogem do nosso controle, temperatura, vento, distribuição
+das chuvas. Dentre os fatores climáticos que influenciam a latitude, altitude e distribuição de chuvas
+ão as principais.
+ Pois estão relacionados com o fotoperíodo a temperatura e disponibilidade de
+água.
+
+### Quais as variações micrometeorológicas em 3 sistemas diferentes de produção de café ?
+**Sistema 1 - solo limpo**
+
+**Sistema 2 - Planta de cobertura**
+
+**Sistema 3 – Consorcio Café mamão**
+
 
 
 
