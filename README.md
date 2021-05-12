@@ -158,6 +158,25 @@ das chuvas. Dentre os fatores climáticos que influenciam a latitude, altitude e
 
 **Sistema 3 – Consorcio Café mamão**
 
+Quando a lavoura de café é conduzida a partir de manejo com o solo limpo, temos maior
+perda de água presente no solo. A temperatura do solo nos momentos mais quentes do dia podem
+chegar a mais de 60o. Isso afeta a absorção de água na camada superficial do solo, mata a micro e
+macro fauna do solo levando muitas vezes a compactação, dificultando a absorção de água nos
+momentos de chuva.
+O sistema utilizando plantas de cobertura, na maioria das vezes a Brachiaria permite uma
+maior retenção da umidade na camada superior do solo, a ciclagem de nutrientes provenientes da
+matéria orgânica da planta de cobertura é uma grande aliada na manutenção da qualidade e
+fertilidade do solo. A temperatura na superfície do solo é mais amena que no sistema 1. No entanto
+torna-se necessário uma manejo adequado da planta de cobertura para que não entre em competição
+com a cultura do café. Fazendo constantes podas e não permitindo o florescimento.
+O sistema 3 em consorcio com a cultura do mamão. Possui algumas peculiaridades o
+sombreamento, altera a temperatura, incidência de vento causando um microclima diferente na parte
+baixeira das plantas. O sombreamento é tolerado na cultura do café até certo ponto cerca de 30%,
+passando disso a incidência de doenças fúngicas como a Ferrugem do cafeeiro (hemileia vastatrix) é
+alta. Além disso a produtividade é afetada já que as nossas cultivares de café foram melhoradas
+geneticamente ao longo dos anos para serem cultivadas em condições de pleno sol. Esse sistema
+pode ser uma boa opção para pequenos produtores que necessitam de diferentes fontes de renda. No
+entanto a produtividade máxima não será como a de uma lavoura a pleno sol.
 
 
 
